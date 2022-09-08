@@ -1,2 +1,3 @@
 Hello!
-Tith is the therd lesson.
+This is the therd lesson.
+It's seminar!
